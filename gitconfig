@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = clara.manhes@mmibordeaux.com
+	name = clara manhes
